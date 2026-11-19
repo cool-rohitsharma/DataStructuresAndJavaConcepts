@@ -6,8 +6,17 @@ Java And DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0015-3sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0001-two-sum/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0015-3sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
