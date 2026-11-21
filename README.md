@@ -10,6 +10,7 @@ Java And DSA Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,8 +22,13 @@ Java And DSA Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0015-3sum/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
