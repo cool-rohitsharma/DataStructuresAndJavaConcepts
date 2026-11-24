@@ -22,6 +22,7 @@ Java And DSA Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0125-valid-palindrome](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -31,4 +32,8 @@ Java And DSA Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/cool-rohitsharma/DataStructuresAndJavaConcepts/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
